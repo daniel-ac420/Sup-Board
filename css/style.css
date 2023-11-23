@@ -992,7 +992,7 @@ a {
 }
 /* ↑↑↑ 540px ↑↑↑ */
 
-@media (max-width: 425px) {
+@media (max-width: 430px) {
 	/* ↓ HEADER ↓ */
 	
 	.section__title {
@@ -1187,7 +1187,7 @@ a {
 
 	/* ↑ FOOTER ↑ */
 }
-/* ↑↑↑ 425px ↑↑↑ */
+/* ↑↑↑ 430px ↑↑↑ */
 
 @media (max-width: 375px) {
 	/* ↓ HEADER ↓ */
